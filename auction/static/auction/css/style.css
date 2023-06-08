@@ -1,0 +1,61 @@
+.us, .prav, .podd, .register {
+    color: #d5c40e;
+
+}
+
+body {
+    background-image: url(../images/durk-blue.jpg);
+    background-size: 1920px 1080px;
+    height: auto;
+}
+
+h2 {
+    width: 50%;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    margin-left: 70px;
+}
+
+.register {
+    margin-left: 195px;
+}
+
+.batten {
+    color: blue;
+    background: darkkhaki;
+    border: 1px solid #323232;
+    border-radius: 10px;
+    border-bottom-width: 3px;
+
+}
+
+.batten :hover {
+    border: 10px solid #323232;
+}
+
+/*.container {*/
+/*    background: black;*/
+/*    height: 30px;*/
+/*    margin-top: 30px;*/
+/*    border: 30px solid(dashed);*/
+
+/*}*/
+.container {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    height: 60px;
+    color: #fdc073;
+    font-size: 20px;
+    color: #fdc073;
+}
+
+/*a.button {*/
+/*    -webkit-appearance: button;*/
+/*    -moz-appearance: button;*/
+/*    appearance: button;*/
+/*    text-decoration: none;*/
+/*    color: initial;*/
+/*}*/
